@@ -1,2 +1,1 @@
-# Trex-Final-Version
-Trex Game
+# Trex-Etapa-0.5
